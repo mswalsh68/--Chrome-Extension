@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version":"1.1",
+    "name": "Mike Leads Tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "3593460.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
+
